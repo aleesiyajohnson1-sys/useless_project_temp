@@ -84,7 +84,7 @@ For Hardware:
 
 ### Project Demo
 # Video
-https://www.image2url.com/r2/default/videos/1788670179764-487e7919-8cce-457c-9d84-6049a0c7a958.mp4
+https://www.image2url.com/r2/default/videos/1788672757282-a13fff6e-128f-4d25-a328-cc9fd8df8163.mp4
 
 ## Team Contributions
 - Aleesya Johnson: Drafting and editing content
