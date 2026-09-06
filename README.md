@@ -2,36 +2,40 @@
 
 
 
-# [Project Name] 🎯
+# Operation Kokku 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
-
+Team name: Savaari girigiriiii
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aleesya Johnson - VJCET
+- Member 2: Aleena Jaison - VJCET
 
 ### Project Description
-[2-3 lines about what your project does]
+### Operation KOKKU – Game Description
+
+**Operation KOKKU** is a fun and humorous 2D interactive game based on the idea of giving a crow a bath. The player first enters how many times they think the crow needs to take a bath to transform into a crane.
+
+No matter what number the player enters, the crow refuses to change and delivers the funny Malayalam dialogue:
+
+**“Kakka kulichal kokkr aakilla!”**
+
+The game is designed as a deliberately useless and entertaining project, combining user input, simple game interaction, animations, comedy, and Malayalam dialogue to create a playful experience.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The myth that a crow can become a crane by taking a bath.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Bath the crow as many times as you wish and see if it can really transform into a crane!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Javascript
+- html
 
-For Hardware:
+For Hardware
 - [List main components]
 - [List specifications]
 - [List tools required]
@@ -39,23 +43,21 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+replit
 
 # Run
-[commands]
+replit
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+https://kommodo.ai/i/x4dFPke3j63BVqagTpYK
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://kommodo.ai/i/7e9DGHbeQqmWAMyfc8bm
+
+https://kommodo.ai/i/GMZ5DiAHs4CHXFFkIXvr
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -82,16 +84,12 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+https://www.image2url.com/r2/default/videos/1788670179764-487e7919-8cce-457c-9d84-6049a0c7a958.mp4
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Aleesya Johnson: Drafting and editing content
+- Aleena Jaison: Organizing and tracking progress
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
