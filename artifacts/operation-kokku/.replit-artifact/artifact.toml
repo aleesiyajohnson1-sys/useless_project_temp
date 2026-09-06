@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Operation Kokku"
+description = "A playful interactive comedy game where players try to turn a crow into a heron through an absurd bathing experiment, with expressive stages, supplied illustrations, and synchronized audio."
+version = "1.0.0"
+id = "artifacts/operation-kokku"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18272
+
+[services.development]
+run = "pnpm --filter @workspace/operation-kokku run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/operation-kokku", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/operation-kokku/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18272"
+BASE_PATH = "/"
